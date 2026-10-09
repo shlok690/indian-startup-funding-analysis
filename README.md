@@ -61,5 +61,5 @@ python analysis.py
 - Median deal USD 1.75 M vs mean USD 16.5 M.
 
 ## Team
-- Shlok – <role>
-- Priyansh – <role>
+- Shlok(IU2441230653) 
+- Priyansh(IU2441230667)
